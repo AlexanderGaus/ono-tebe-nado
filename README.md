@@ -1,1 +1,1 @@
-git@github.com:AlexanderGaus/ono-tebe-nado.git
+https://github.com/AlexanderGaus/ono-tebe-nado
