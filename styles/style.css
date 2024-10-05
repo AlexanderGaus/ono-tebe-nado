@@ -3,8 +3,9 @@
 .header {
     display: grid;
     grid-template-columns: 1fr 148px 394px;
+    grid-template-rows: 105px;
     box-sizing: content-box;
-    padding: 92px 80px 83px 51px;
+    padding: 92px 80px 96px 51px;
     align-items: center;
 }
 
@@ -31,7 +32,15 @@
     text-decoration: none;
 }
 
+.header_logo-link {
+    display: block;
+    text-align: center;
+}
 
+.header_logo_image {
+    width: 129px;
+    height: 105px;
+}
 
 .header__address {
     text-align: right;
