@@ -2,7 +2,7 @@
 
 .header {
     display: grid;
-    grid-template-columns: 1fr 148px 1fr;
+    grid-template-columns: 1fr 148px 394px;
     box-sizing: content-box;
     padding: 92px 80px 83px 51px;
     align-items: center;
@@ -64,6 +64,7 @@
 
 .aligned-text_center {
     text-align: center;
+    padding-top: 15px;
 }
 
 .aligned-text_right {
@@ -97,7 +98,7 @@
 
 .cover__description-text {
     margin-left: 28px;
-    word-spacing: 23.4px;
+    word-spacing: 18.5px;
     font-size: 22px;
     font-weight: 400;
     line-height: 28px;
@@ -257,7 +258,7 @@
 
 .footer {
     display: grid;
-    grid-template-columns: 425px 149px 425px;
+    grid-template-columns: 420px 159px 420px;
     padding: 180px 50px 88px;
 }
 
