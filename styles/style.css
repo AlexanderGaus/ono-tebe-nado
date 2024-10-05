@@ -55,6 +55,7 @@
     font-weight: 700;
     text-transform: uppercase;
     margin-bottom: 135px;
+    line-height: 115px;
 
 }
 
@@ -64,11 +65,14 @@
 
 .aligned-text_center {
     text-align: center;
-    padding-top: 15px;
+    line-height: 100px;
+    padding-top: 20px;
 }
 
 .aligned-text_right {
     text-align: right;
+    line-height: 100px;
+    padding-top: 20px;
 }
 
 .letter-spacing-extended {
