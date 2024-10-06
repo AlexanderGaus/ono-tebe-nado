@@ -4,7 +4,7 @@
     display: grid;
     grid-template-columns: 1fr 148px 1fr;
     box-sizing: content-box;
-    padding: 92px 52pxpx 92px 51px;
+    padding: 92px 52px 92px 51px;
     align-items: center;
 }
 
