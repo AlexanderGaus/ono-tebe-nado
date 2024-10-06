@@ -2,9 +2,9 @@
 
 .header {
     display: grid;
-    grid-template-columns: 1fr 148px 394px;
+    grid-template-columns: 1fr 148px 1fr;
     box-sizing: content-box;
-    padding: 92px 80px 92px 51px;
+    padding: 92px 52pxpx 92px 51px;
     align-items: center;
 }
 
@@ -32,8 +32,7 @@
 }
 
 .header_logo-link {
-    position: relative;
-    right: 0;
+    display: block;
     text-align: center;
 }
 
@@ -43,8 +42,7 @@
 }
 
 .header__address {
-    display: block;
-    text-align: right;
+    padding-left: 184px;
 }
 
 .cover {
